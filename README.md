@@ -1,8 +1,5 @@
 # Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
 
-markdown
-# Real-Time Data Processing System for Weather Monitoring
-
 ## Overview
 The Real-Time Data Processing System for Weather Monitoring is designed to continuously monitor weather conditions and provide summarized insights. By leveraging the OpenWeatherMap API, this system retrieves data on major metros in India, calculates aggregates, and triggers alerts based on user-defined thresholds.
 
